@@ -1,7 +1,5 @@
 # Cisco-Packet-Tracer-Data-Center-Model
-
-<img width="1748" height="654" alt="Screenshot 2025-09-01 014148" src="https://github.com/user-attachments/assets/507549f7-b3a9-45cc-90e9-b8aed2458ec4" />
-
+<img width="1559" height="565" alt="Screenshot 2025-09-01 015013" src="https://github.com/user-attachments/assets/de39c50b-97a8-4811-9a55-f49f5a3d7964" />
 ## Device Roles and Justification
 
 ### Edge & Security Layer
