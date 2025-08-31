@@ -60,7 +60,7 @@ Infrastructure DevOps Server: Automates configuration and provisioning tasks.
 
 DNS/DHCP: Provides name resolution and dynamic IP allocation.
 
-###ASW_Client (Client Zone)
+### ASW_Client (Client Zone)
 
 Client PC: Represents internal user workstations. They access apps through proper paths, never directly hitting sensitive tiers.
 
